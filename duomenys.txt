@@ -1,0 +1,3 @@
+Scorpion Archnid EmperorScorpion 0,03 0,2 Crawls
+Spider Archnid GoliathBirdeater 0,12 0,3 Crawls
+Eagle Bird WhiteBelliedSeaEagle 4,5 0,9 Flies
